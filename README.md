@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am currently working at ESPCI-PSL, in Paris (France), as a research engineer. 
+
+I have joined Karim Benchenane's team and am working in particular with Sophie Bagur. 
+
+Happy to collaborate! 
+
 <!--
 **EllaCallas/EllaCallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
